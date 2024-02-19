@@ -1,0 +1,6 @@
+apple: a fruit
+banana: a yellow fruit
+carrot: a vegetable
+durian: a spiky tropical fruit
+eggplant: a purple vegetable
+fig: a sweet fruit with many small seeds
