@@ -1,0 +1,15 @@
+<header>
+    <nav>
+        <% breadcrumbs.forEach((crumb, index)=> { %>
+            <% if (index !==breadcrumbs.length - 1) { %>
+                <span><a href="<%= '/' + breadcrumbs.slice(0, index + 1).join('/') %>">
+                        <%= crumb %>
+                    </a></span> >
+                <% } else { %>
+                    <span><a href="<%= '/' + breadcrumbs.slice(0, index + 1).join('/') %>">
+                            <%= crumb %>
+                        </a></span>
+                    <% } %>
+                        <% }) %>
+    </nav>
+</header>
