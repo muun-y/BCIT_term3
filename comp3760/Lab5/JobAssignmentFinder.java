@@ -9,7 +9,6 @@ import java.util.Scanner;
  * to read data from a file, calculate the maximum benefit assignment, calculate
  * the greedy assignment, and determine the total values of the assignments.
  * 
- * @author Mun Young Cho (Set C - A01330048)
  */
 public class JobAssignmentFinder {
 

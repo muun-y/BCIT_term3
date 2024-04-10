@@ -13,8 +13,7 @@
  * into the hash table. Collisions happen when two keys are hashed to the same
  * index in the hash
  * table, while probes occur when finding an empty slot after a collision.
- * 
- * @author Mun Young Cho (A01330048) - setC
+ *
  */
 public class HashSimulator {
 

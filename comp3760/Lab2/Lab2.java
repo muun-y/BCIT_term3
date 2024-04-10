@@ -4,7 +4,6 @@ import java.util.ArrayList;
  * This class provides a method to generate palindrome sequences of length N
  * using characters 'A', 'B', and 'C'.
  * 
- * @author Mun Young Cho (A01330048)
  */
 public class Lab2 {
 

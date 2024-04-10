@@ -3,8 +3,7 @@ import java.util.HashMap;
 /**
  * A lab assginment for calculating binomial coefficients using recursive and
  * dynamic programming techniques.
- * 
- * @author Mun Young Cho(setC - A01330048)
+ *
  */
 public class Lab6 {
 

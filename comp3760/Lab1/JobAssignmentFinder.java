@@ -7,8 +7,6 @@ import java.util.ArrayList;
  * Class to find the maximum benefit assignment for a given job assignment
  * problem.
  * 
- * @author Mun Young Cho (Set C)
- * @student_number A01330048
  */
 public class JobAssignmentFinder {
 
