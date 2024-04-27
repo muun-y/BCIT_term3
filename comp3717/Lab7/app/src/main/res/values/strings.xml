@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab7MunYoungCho</string>
+    <string-array name = "characters">
+        <item>Ahsoka</item>
+        <item>BB8</item>
+        <item>C3PO</item>
+        <item>Chewbacca</item>
+        <item>Grogu</item>
+        <item>Jabba</item>
+        <item>Kilo</item>
+        <item>Trooper</item>
+        <item>Yoda</item>
+    </string-array>
+</resources>

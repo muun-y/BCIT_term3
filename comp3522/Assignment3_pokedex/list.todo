@@ -1,0 +1,25 @@
+- 1. Implement a facade class to simplify access to the pokeretriever package.
+- 2. Control access to the package via the interface defined in the facade class.
+- 3. Design an appropriate name for the facade class and include the following method:
+    - `execute_request(request: Request) -> PokedexObject`
+- 4. Ensure that the Request class contains all the data gathered by the argparse module.
+- 5. Define the PokedexObject base class with name and id parameters. @done
+- 6. Create the following classes, all inheriting from the PokedexObject class: @done
+    - Pokemon class @done
+    - Moves class @done
+    - Stat class @done
+    - Ability class @done
+- 7. Create generate_pokedex_object class @done
+- 8. Connect to the Pokédex API using aiohttp to make asynchronous HTTP requests and retrieve Pokémon data. @done
+- 9. Implement error handling mechanisms in the facade class to gracefully handle exceptions that may occur during API requests or data processing. @done
+- 10. Document the facade class and its methods using docstrings to provide clear usage instructions for other developers. @done
+- 11. Write unit tests to ensure the functionality of the facade class and its methods. @done
+    - Testing Ability @done
+    - Testing move @done
+    - Testing pokemon @done
+    - Testing pokemon expanded @done
+    - Testing error case
+- 12. Document the facade class and its methods using docstrings to provide clear usage instructions for other developers.
+- 13. Optimize the code for readability, efficiency, and maintainability, following best practices and coding conventions.
+- 14.
+
